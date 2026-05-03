@@ -71,8 +71,8 @@ I am a passionate **Computer Engineering student** from Vietnam 🇻🇳 with a 
 | **[Naver Hackathon](https://github.com/nguyendangcole/web-track-naver-vietnam-ai-hackathon-nguyendang)** | Vietnam AI Hackathon competition project | `TypeScript` |
 | **[Job Poster](https://github.com/NguyenHoangNam-1410/Job_poster)** | Collaboration on Job Poster project | `PHP` |
 | **[Naver Hackathon 2025](https://github.com/Naammmdz/naver-hackathon-2025)** | Collaboration Hackathon project 2025 | `TypeScript` |
-| **[Smart Parking IoT](https://github.com/nguyendangcole/Smart-parking-iot)** | Collaboration on Smart Parking IoT | `IoT`, `MQTT` |
-| **[Smart TICY IoT](https://github.com/nguyendangcole/smart-t-i-c-y-iot)** | Collaboration on Smart TICY project | `IoT`, `C++` |
+| **[Smart Parking IoT](https://github.com/nguyendangcole/Smart-parking-iot)** | Smart parking management system | `React`, `TypeScript`, `Supabase` |
+| **[Smart Irrigation IoT](https://github.com/nguyendangcole/smart_irrigation_iot)** | AI-powered irrigation system (Group project) | `TypeScript`, `Python`, `AI`, `IoT` |
 
 #### 🤖 AI & Machine Learning
 
