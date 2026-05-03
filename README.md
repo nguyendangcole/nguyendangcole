@@ -51,6 +51,8 @@ I am a passionate **Computer Engineering student** from Vietnam 🇻🇳 with a 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
  
 </p>
 
@@ -67,9 +69,10 @@ I am a passionate **Computer Engineering student** from Vietnam 🇻🇳 with a 
 | **[Nomadly](https://github.com/nguyendangcole/nomadly)** | Smart travel website for Gen Z | `TypeScript`, `React` |
 | **[Web Photobooth](https://github.com/nguyendangcole/web-photo-booth)** | Personal project for academic & self-learning | `PHP`, `JavaScript` |
 | **[Naver Hackathon](https://github.com/nguyendangcole/web-track-naver-vietnam-ai-hackathon-nguyendang)** | Vietnam AI Hackathon competition project | `TypeScript` |
-| **[TicTacToe Game](https://github.com/nguyendangcole/tictactoe-naver-game)** | Exercise from Naver-hackathon | `JavaScript` |
 | **[Job Poster](https://github.com/NguyenHoangNam-1410/Job_poster)** | Collaboration on Job Poster project | `PHP` |
-| **[Naver Hackathon 2025](https://github.com/Naammmdz/naver-hackathon-2025)** | Hackathon project 2025 | `TypeScript` |
+| **[Naver Hackathon 2025](https://github.com/Naammmdz/naver-hackathon-2025)** | Collaboration Hackathon project 2025 | `TypeScript` |
+| **[Smart Parking IoT](https://github.com/nguyendangcole/Smart-parking-iot)** | Collaboration on Smart Parking IoT | `IoT`, `MQTT` |
+| **[Smart TICY IoT](https://github.com/nguyendangcole/smart-t-i-c-y-iot)** | Collaboration on Smart TICY project | `IoT`, `C++` |
 
 #### 🤖 AI & Machine Learning
 
