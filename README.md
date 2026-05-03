@@ -14,14 +14,13 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate developer from Vietnam 🇻🇳, focused on building modern web applications that provide great user experiences. I love exploring new technologies and applying them to solve real-world problems.
+I am a passionate Computer Engineering student from Vietnam 🇻🇳 with a strong interest in software development and building impactful, real-world applications. I enjoy exploring different areas of technology, from web development to data-driven systems, and continuously expanding my skill set.
 
-- 🔭 I’m currently working on some personal projects to enhance my skills.
-- 🌱 I’m currently learning **Advanced TypeScript** and **System Design**.
-- 👯 I’m looking to collaborate on **Open Source** projects.
-- 💬 Ask me about **JavaScript, PHP, or anything tech!**
-- 📫 How to reach me: [nguyendangcole@gmail.com](mailto:nguyendangcole@gmail.com)
-
+🔭 I’m currently working on personal and academic projects to strengthen my problem-solving and development skills.
+🌱 I’m currently learning more about system design, advanced programming concepts, and exploring fields like AI and machine learning.
+👯 I’m open to collaborating on projects and contributing to open-source communities.
+💬 Feel free to reach out to discuss software development, tech, or new ideas!
+📫 Contact: nguyenduydang225@gmail.com
 ---
 
 ### 🛠 Tech Stack
