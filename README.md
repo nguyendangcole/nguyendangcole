@@ -38,7 +38,7 @@ I am a passionate developer from Vietnam 🇻🇳, focused on building modern we
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  
   <br>
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -66,19 +66,26 @@ I am a passionate developer from Vietnam 🇻🇳, focused on building modern we
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyendangcole&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="nguyendangcole's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyendangcole&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyendangcole&theme=react-dark&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyendangcole&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyendangcole&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nguyendangcole&theme=radical&no-bg=true&margin-w=15" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nguyendangcole&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophy" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nguyendangcole/nguyendangcole/output/github-contribution-grid-snake.svg" alt="Snake" />
 </p>
 
 ---
