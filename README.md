@@ -10,6 +10,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://portfolio-dn-tan.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Personal%20Portfolio-🚀%20Live%20Demo-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -88,6 +94,9 @@ I am a passionate **Computer Engineering student** from Vietnam 🇻🇳 with a 
 ### 🤝 Connect with Me
 
 <p align="left">
+  <a href="https://portfolio-dn-tan.vercel.app/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="Portfolio" height="30" width="40" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/%C4%91%E1%BA%B7ng-duy-nguy%C3%AAn-784958334/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>&nbsp;&nbsp;
