@@ -14,13 +14,14 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate Computer Engineering student from Vietnam 🇻🇳 with a strong interest in software development and building impactful, real-world applications. I enjoy exploring different areas of technology, from web development to data-driven systems, and continuously expanding my skill set.
+I am a passionate **Computer Engineering student** from Vietnam 🇻🇳 with a strong interest in software development and building impactful, real-world applications. I enjoy exploring different areas of technology, from web development to data-driven systems, and continuously expanding my skill set.
 
-🔭 I’m currently working on personal and academic projects to strengthen my problem-solving and development skills.
-🌱 I’m currently learning more about system design, advanced programming concepts, and exploring fields like AI and machine learning.
-👯 I’m open to collaborating on projects and contributing to open-source communities.
-💬 Feel free to reach out to discuss software development, tech, or new ideas!
-📫 Contact: nguyenduydang225@gmail.com
+- 🔭 **Current Focus**: Working on personal and academic projects to strengthen my problem-solving and development skills.
+- 🌱 **Learning Path**: Diving deeper into system design, advanced programming concepts, and exploring fields like AI and Machine Learning.
+- 👯 **Collaboration**: Open to collaborating on projects and contributing to open-source communities.
+- 💬 **Let's Talk**: Feel free to reach out to discuss software development, tech, or new ideas!
+- 📫 **Contact**: [nguyenduydang225@gmail.com](mailto:nguyenduydang225@gmail.com)
+
 ---
 
 ### 🛠 Tech Stack
