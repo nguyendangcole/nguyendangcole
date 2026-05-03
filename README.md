@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Fullstack+Developer;UI%2FUX+Enthusiast;Genz+Traveler;Open+Source+Lover" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Fullstack+Developer;AI+%26+ML+Enthusiast;UI%2FUX+Enthusiast;Genz+Traveler" alt="Typing SVG" />
   </a>
 </p>
 
@@ -40,6 +40,13 @@ I am a passionate **Computer Engineering student** from Vietnam 🇻🇳 with a 
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   
   <br>
+  <!-- AI & Machine Learning -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <br>
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -53,6 +60,8 @@ I am a passionate **Computer Engineering student** from Vietnam 🇻🇳 with a 
 
 <div align="center">
 
+#### 🌐 Web Development
+
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Nomadly](https://github.com/nguyendangcole/nomadly)** | Smart travel website for Gen Z | `TypeScript`, `React` |
@@ -61,6 +70,13 @@ I am a passionate **Computer Engineering student** from Vietnam 🇻🇳 with a 
 | **[TicTacToe Game](https://github.com/nguyendangcole/tictactoe-naver-game)** | Exercise from Naver-hackathon | `JavaScript` |
 | **[Job Poster](https://github.com/NguyenHoangNam-1410/Job_poster)** | Collaboration on Job Poster project | `PHP` |
 | **[Naver Hackathon 2025](https://github.com/Naammmdz/naver-hackathon-2025)** | Hackathon project 2025 | `TypeScript` |
+
+#### 🤖 AI & Machine Learning
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Heart Disease Prediction](https://github.com/nguyendangcole/Heart-Disease-Prediction-using-ML--practice)** | ML project to predict heart disease | `Python`, `Scikit-learn` |
+| **[Assignment P4AI](https://github.com/nguyendangcole/assignment-P4AI)** | Group assignment for AI project | `Python`, `AI/ML` |
 
 </div>
 
