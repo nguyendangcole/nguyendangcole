@@ -67,7 +67,7 @@ I am a passionate **Computer Engineering student** from Vietnam 🇻🇳 with a 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Nomadly](https://github.com/nguyendangcole/nomadly)** | Smart travel website for Gen Z | `TypeScript`, `React` |
-| **[Web Photobooth](https://github.com/nguyendangcole/web-photo-booth)** | Personal project for academic & self-learning | `PHP`, `JavaScript` |
+| **[Web Photobooth](https://github.com/nguyendangcole/web-photobooth)** | Personal project for academic & self-learning | `PHP`, `JavaScript` |
 | **[Naver Hackathon](https://github.com/nguyendangcole/web-track-naver-vietnam-ai-hackathon-nguyendang)** | Vietnam AI Hackathon competition project | `TypeScript` |
 | **[Job Poster](https://github.com/NguyenHoangNam-1410/Job_poster)** | Collaboration on Job Poster project | `PHP` |
 | **[Naver Hackathon 2025](https://github.com/Naammmdz/naver-hackathon-2025)** | Collaboration Hackathon project 2025 | `TypeScript` |
