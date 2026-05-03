@@ -44,7 +44,7 @@ I am a passionate developer from Vietnam 🇻🇳, focused on building modern we
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+ 
 </p>
 
 ---
@@ -66,36 +66,18 @@ I am a passionate developer from Vietnam 🇻🇳, focused on building modern we
 
 ---
 
-### 📊 My Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyendangcole&theme=react-dark&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyendangcole&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nguyendangcole&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophy" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nguyendangcole/nguyendangcole/output/github-contribution-grid-snake.svg" alt="Snake" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/nguyendangcole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyendangcole" height="30" width="40" /></a>
-  <a href="https://fb.com/nguyendangcole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyendangcole" height="30" width="40" /></a>
-  <a href="https://instagram.com/nguyendangcole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nguyendangcole" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/%C4%91%E1%BA%B7ng-duy-nguy%C3%AAn-784958334/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/nguyen.duy.505161/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/nguyendangcole" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
 
 <p align="center">
